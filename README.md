@@ -8,6 +8,9 @@
 
 I build technology-driven projects around financial markets, research, and data — combining a Computer Science background with a growing focus on equity research, quantitative analysis, and systematic trading.
 
+<a href="https://ashwani-portfolio-omega.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_Live_Portfolio-00C7B7?style=for-the-badge" alt="Live Portfolio"/>
+</a>
 <a href="https://github.com/Ashwani219">
   <img src="https://img.shields.io/badge/GitHub-Ashwani219-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
@@ -39,20 +42,20 @@ I build technology-driven projects around financial markets, research, and data 
 
 ## ⭐ Featured Projects
 
-### 📈 SATS Dynamic Swing Backtester
-Research-oriented Python backtesting project for a trading strategy using dynamic swing anchoring and VWAP concepts.
+### 🌐 [Finance & Research Portfolio](https://ashwani-portfolio-omega.vercel.app/)
+Interactive portfolio combining equity research, valuation, financial analysis, technical analysis, and quantitative strategy research.
+
+**Focus:** Next.js • TypeScript • financial research • data visualization • interactive analysis
+
+### 📈 [SATS Dynamic Swing Backtester](https://github.com/Ashwani219/sats-dynamic-swing-backtester)
+Research-oriented Python backtesting project for systematic trading strategy evaluation.
 
 **Focus:** strategy research • backtesting • performance analysis • quantitative workflows
 
-### 📱 Smart Fitness
-Android health-tracking application with fitness monitoring and wearable / Google Fit integration concepts.
+### 📱 [Smart Fitness](https://github.com/Ashwani219/Smart-Fitness)
+Android fitness application exploring workout tracking, fitness monitoring and wearable / Google Fit integration concepts.
 
 **Focus:** Android • Java • APIs • mobile application development
-
-### 🌐 Portfolio Website
-A professional portfolio showcasing projects, skills, research work and career highlights.
-
-**Focus:** web development • personal branding • project presentation
 
 ---
 
@@ -91,7 +94,10 @@ A professional portfolio showcasing projects, skills, research work and career h
 
 ---
 
-## 🤝 Let's Connect
+## 🌐 Portfolio & Projects
+
+**Live Portfolio:** https://ashwani-portfolio-omega.vercel.app/  
+**Portfolio Repository:** https://github.com/Ashwani219/Ashwani-Portfolio
 
 I'm interested in opportunities and conversations around **equity research, financial analysis, trading research, quant-oriented projects, and FinTech**.
 
